@@ -33,7 +33,7 @@
 
 - :zap: I constantly seek opportunities to grow and learn in data analysis.
   
-- :mailbox:Feel free to connect with me on LinkedIn or reach out via email [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ashrafun-naher-pinky) [![Mail Badge](https://img.shields.io/badge/-Mail-purple?style=flat&logo=Gmail&logoColor=white)](anaherpinky@gmail.com)
+- :mailbox: Feel free to connect with me on LinkedIn or email [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ashrafun-naher-pinky) [![Mail Badge](https://img.shields.io/badge/-Mail-purple?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/anaherpinky@gmail.com)
 
 Let's explore the world of data together and unlock its limitless potential! 🌐💡
 
