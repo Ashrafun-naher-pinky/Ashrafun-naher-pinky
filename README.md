@@ -19,44 +19,28 @@
 
 ### :female_detective: About Me :
 
-- :telescope: I'm a beginner data analyst passionate about exploring and deriving insights from complex datasets. 
+I'm a PhD researcher working on Vertical GaN Power Devices, with a focus on designing fast-switching Vertical GaN Device for industrial applications. My work involves Silvaco TCAD modeling, simulation and fabrication, aiming to improve Figure of Merits (FOMs).
 
-- :briefcase: With over 11 years of experience in engineering education and a strong background in leadership positions, I bring a unique perspective to the world of data analysis.
+🔬 Research Interests:
 
-- :open_book: I am pursuing a master's degree in electronics at the University of Southern Denmark.
+-Wide-bandgap semiconductors (GaN, SiC)
 
-- :spiral_notepad: I am skilled in applying statistical methods and programming languages like Python.
+-Power electronics for electric vehicles
 
-- :chart_with_upwards_trend: I enjoy creating visually appealing and informative data visualizations using tools like Tableau and Power BI.
+-TCAD modeling & device simulation
 
-- :zap: I constantly seek opportunities to grow and learn in data analysis.
-  
-- :mailbox: Feel free to connect with me on LinkedIn or email [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ashrafun-naher-pinky) <a href = "mailto: anaherpinky@gmail.com">![Mail Badge](https://img.shields.io/badge/-Mail-purple?style=flat&logo=Gmail&logoColor=white)</a>
+-Chip Fabrication
 
-Let's explore the world of data together and unlock its limitless potential! 🌐💡
+📌 Current Project:
+Investigating DC and dynamic characteristics of novel Vertical GaN switches and collaborating on experimental validation.
 
----
+📫 Let's Connect!
+I’m always open to discussions on power devices, TCAD simulations, and industry applications. Feel free to check out my work and reach out on LinkedIn or email [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ashrafun-naher-pinky) <a href = "mailto: anaherpinky@gmail.com">![Mail Badge](https://img.shields.io/badge/-Mail-purple?style=flat&logo=Gmail&logoColor=white)</a>
 
-### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<div>
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ashrafun-naher-pinky&theme=swift&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafun-naher-pinky&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ashrafun-naher-pinky/Ashrafun-naher-pinky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
